@@ -149,8 +149,8 @@ github.com/cybozu-go/log v1.6.0/go.mod h1:2iAEvn2cL5dy/1uP5Jfb0Ao9+DUnDr//V0Bk3W
 github.com/cybozu-go/netutil v1.2.0/go.mod h1:Wx92iF1dPrtuSzLUMEidtrKTFiDWpLcsYvbQ1lHSmxY=
 github.com/cybozu-go/usocksd v1.2.0/go.mod h1:nsCvwPP085NIiqt9bS8yW1Sxy3mKwl/eov9Tdu2eKLk=
 github.com/cybozu-go/well v1.10.0/go.mod h1:OQdjEXQpbG+kSgEF3t3IYUx5y1R4qeBGvzL4gmi61qE=
-github.com/cyphar/filepath-securejoin v0.2.3 h1:YX6ebbZCZP7VkM3scTTokDgBL2TY741X51MTk3ycuNI=
-github.com/cyphar/filepath-securejoin v0.2.3/go.mod h1:aPGpWjXOXUn2NCNjFvBE6aRxGGx79pTxQpKOJNYHHl4=
+github.com/cyphar/filepath-securejoin v0.2.4 h1:Ugdm7cg7i6ZK6x3xDF1oEu1nfkyfH53EtKeQYTC3kyg=
+github.com/cyphar/filepath-securejoin v0.2.4/go.mod h1:aPGpWjXOXUn2NCNjFvBE6aRxGGx79pTxQpKOJNYHHl4=
 github.com/davecgh/go-spew v0.0.0-20151105211317-5215b55f46b2/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
