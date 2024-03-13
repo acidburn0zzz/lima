@@ -36,6 +36,7 @@ require (
 	golang.org/x/sync v0.1.0
 	golang.org/x/sys v0.4.0
 	gotest.tools/v3 v3.4.0
+	inet.af/tcpproxy v0.0.0-20220326234310-be3ee21c9fa0
 )
 
 require (
@@ -73,9 +74,8 @@ require (
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/genproto v0.0.0-20220502173005-c8bf987b8c21 // indirect
 	google.golang.org/grpc v1.47.0 // indirect
-	google.golang.org/protobuf v1.28.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/djherbis/times.v1 v1.2.0 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gvisor.dev/gvisor v0.0.0-20220908032458-edc830a43ba6 // indirect
-	inet.af/tcpproxy v0.0.0-20220326234310-be3ee21c9fa0 // indirect
 )
